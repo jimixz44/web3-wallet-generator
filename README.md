@@ -16,8 +16,8 @@ A powerful and user-friendly tool to generate wallets for multiple blockchain ne
 
 ## 📋 Persyaratan Sistem
 
-- [Node.js](https://nodejs.org/) (Versi terbaru direkomendasikan)
-- [NPM](https://www.npmjs.com/) (Biasanya sudah terinstall bersama Node.js)
+- [Node.js](https://nodejs.org/) (Versi **v18.0.0** atau lebih tinggi sangat disarankan)
+- [NPM](https://www.npmjs.com/) (Sudah terpaket dengan Node.js)
 
 ## 🛠️ Instalasi
 
