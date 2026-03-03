@@ -16,8 +16,8 @@ A powerful and user-friendly tool to generate wallets for multiple blockchain ne
 
 ## 📋 Persyaratan Sistem
 
-- **Node.js**: Minimal versi **v18.0.0** (wajib ya, kalau di bawah ini nanti error).
-- **NPM**: Sudah otomatis terinstal bareng Node.js.
+- Node.js: Minimal versi v18.0.0
+- NPM
 
 ## 🛠️ Instalasi
 
